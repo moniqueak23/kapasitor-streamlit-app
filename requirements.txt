@@ -1,7 +1,8 @@
+scikit-learn
+xgboost
 streamlit
 pandas
 numpy
 altair
-scikit-learn
-xgboost
 joblib
+openpyxl
